@@ -1,0 +1,27 @@
+body{
+
+	font-family: verdana, Arial, sans serif;
+}
+
+.ordered_list{
+
+	list-style-type: none;
+	font-variant-ligatures: discretionary-ligatures;
+}
+
+.unordered_list{
+	list-style-type: square;
+	list-style-position: inside;  
+}
+
+.shpenzimet{
+
+	width: 100%;
+	border-collapse: collapse;
+
+}
+.shpenzimet td, .shpenzimet th{
+border:2px solid black;
+padding: 5px;
+
+}
